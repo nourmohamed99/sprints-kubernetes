@@ -15,6 +15,17 @@ endpoints ips same as pods ips
 
 ![ips of pods](https://github.com/nourmohamed99/sprints-kubernetes/assets/88977873/589ffef9-10c9-42e7-9ef6-59d90a2199f5)
 
+![ssh1](https://github.com/nourmohamed99/sprints-kubernetes/assets/88977873/53b0966a-aae8-4554-969a-313bf34825e0)
+
+# create debug pod to test the service
+
+
+![pods](https://github.com/nourmohamed99/sprints-kubernetes/assets/88977873/8dfb55e0-5337-4b22-b408-8e22413f1b51)
+
+![debugpod](https://github.com/nourmohamed99/sprints-kubernetes/assets/88977873/02d2811f-db72-4785-8b1e-eae2798b82d5)
+
+
+
 
 
 
